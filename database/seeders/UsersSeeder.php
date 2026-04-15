@@ -1,6 +1,6 @@
 <?php
 
-namespace Totocsa\InsertRandomUsers\database\seeders;
+namespace Totocsa01\InsertRandomUsers\database\seeders;
 
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;

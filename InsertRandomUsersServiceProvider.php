@@ -1,6 +1,6 @@
 <?php
 
-namespace Totocsa\InsertRandomUsers;
+namespace Totocsa01\InsertRandomUsers;
 
 use Illuminate\Support\ServiceProvider;
 
